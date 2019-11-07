@@ -97,7 +97,7 @@ class SinaNewsPipeline(object):
         sender = '327259852@qq.com'
         receiver = '327259852@qq.com'
         # 授权密码
-        pwd = 'jengfccvzsfobiee'
+        pwd = '123456'
 
         title = '新浪新闻[' + self.time_str + ']'
 
